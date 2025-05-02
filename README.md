@@ -32,8 +32,6 @@ Robustifying YOLO v8 for Autonomous‑Vehicle Perception
 9. [Citation](#citation)
 10. [License](#license)
 
-*WORK IN PROGRESS ...*
-
 ---
 
 ## Background
@@ -48,6 +46,4 @@ Key references:
 
 ---
 
-## Datasets
-python scripts/fetch_kitti.py
-export KITTI_DIR=datasets/kitti-mini
+*WORK IN PROGRESS ...*
