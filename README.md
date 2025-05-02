@@ -45,3 +45,7 @@ Key references:
 * Xie *et al.* (ICCV 2017) – DAG for detection/segmentation
 
 ---
+
+## Datasets
+python scripts/fetch_kitti.py
+export KITTI_DIR=datasets/kitti-mini
