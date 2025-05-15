@@ -1,0 +1,35 @@
+[0.468s] Invoking command in '/home/manas/adversarial_proj/build/adversarial_pkg': PYTHONPATH=/home/manas/adversarial_proj/build/adversarial_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/manas/adversarial_proj/install/adversarial_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/manas/adversarial_proj/build/adversarial_pkg/build
+[0.631s] running develop
+[0.717s] Removing /home/manas/adversarial_proj/install/adversarial_pkg/lib/python3.10/site-packages/adversarial-pkg.egg-link (link to .)
+[0.732s] Invoked command in '/home/manas/adversarial_proj/build/adversarial_pkg' returned '0': PYTHONPATH=/home/manas/adversarial_proj/build/adversarial_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/manas/adversarial_proj/install/adversarial_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/manas/adversarial_proj/build/adversarial_pkg/build
+[0.732s] Invoking command in '/home/manas/adversarial_proj/src/adversarial_pkg': PYTHONPATH=/home/manas/adversarial_proj/build/adversarial_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/manas/adversarial_proj/install/adversarial_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/adversarial_pkg build --build-base /home/manas/adversarial_proj/build/adversarial_pkg/build install --record /home/manas/adversarial_proj/build/adversarial_pkg/install.log --single-version-externally-managed install_data --force
+[0.874s] running egg_info
+[0.874s] writing ../../build/adversarial_pkg/adversarial_pkg.egg-info/PKG-INFO
+[0.874s] writing dependency_links to ../../build/adversarial_pkg/adversarial_pkg.egg-info/dependency_links.txt
+[0.874s] writing entry points to ../../build/adversarial_pkg/adversarial_pkg.egg-info/entry_points.txt
+[0.875s] writing requirements to ../../build/adversarial_pkg/adversarial_pkg.egg-info/requires.txt
+[0.875s] writing top-level names to ../../build/adversarial_pkg/adversarial_pkg.egg-info/top_level.txt
+[0.876s] reading manifest file '../../build/adversarial_pkg/adversarial_pkg.egg-info/SOURCES.txt'
+[0.877s] writing manifest file '../../build/adversarial_pkg/adversarial_pkg.egg-info/SOURCES.txt'
+[0.877s] running build
+[0.877s] running build_py
+[0.877s] copying adversarial_pkg/magnet_inference.py -> /home/manas/adversarial_proj/build/adversarial_pkg/build/lib/adversarial_pkg
+[0.877s] copying adversarial_pkg/classifier.py -> /home/manas/adversarial_proj/build/adversarial_pkg/build/lib/adversarial_pkg
+[0.877s] running install
+[0.878s] running install_lib
+[0.878s] creating /home/manas/adversarial_proj/install/adversarial_pkg/lib/python3.10/site-packages/adversarial_pkg
+[0.878s] copying /home/manas/adversarial_proj/build/adversarial_pkg/build/lib/adversarial_pkg/magnet_inference.py -> /home/manas/adversarial_proj/install/adversarial_pkg/lib/python3.10/site-packages/adversarial_pkg
+[0.878s] copying /home/manas/adversarial_proj/build/adversarial_pkg/build/lib/adversarial_pkg/__init__.py -> /home/manas/adversarial_proj/install/adversarial_pkg/lib/python3.10/site-packages/adversarial_pkg
+[0.878s] copying /home/manas/adversarial_proj/build/adversarial_pkg/build/lib/adversarial_pkg/classifier.py -> /home/manas/adversarial_proj/install/adversarial_pkg/lib/python3.10/site-packages/adversarial_pkg
+[0.878s] byte-compiling /home/manas/adversarial_proj/install/adversarial_pkg/lib/python3.10/site-packages/adversarial_pkg/magnet_inference.py to magnet_inference.cpython-310.pyc
+[0.879s] byte-compiling /home/manas/adversarial_proj/install/adversarial_pkg/lib/python3.10/site-packages/adversarial_pkg/__init__.py to __init__.cpython-310.pyc
+[0.879s] byte-compiling /home/manas/adversarial_proj/install/adversarial_pkg/lib/python3.10/site-packages/adversarial_pkg/classifier.py to classifier.cpython-310.pyc
+[0.879s] running install_data
+[0.880s] copying resource/adversarial_pkg -> /home/manas/adversarial_proj/install/adversarial_pkg/share/ament_index/resource_index/packages
+[0.880s] copying package.xml -> /home/manas/adversarial_proj/install/adversarial_pkg/share/adversarial_pkg
+[0.880s] running install_egg_info
+[0.881s] Copying ../../build/adversarial_pkg/adversarial_pkg.egg-info to /home/manas/adversarial_proj/install/adversarial_pkg/lib/python3.10/site-packages/adversarial_pkg-0.0.0-py3.10.egg-info
+[0.882s] running install_scripts
+[0.894s] Installing classifier script to /home/manas/adversarial_proj/install/adversarial_pkg/lib/adversarial_pkg
+[0.894s] writing list of installed files to '/home/manas/adversarial_proj/build/adversarial_pkg/install.log'
+[0.907s] Invoked command in '/home/manas/adversarial_proj/src/adversarial_pkg' returned '0': PYTHONPATH=/home/manas/adversarial_proj/build/adversarial_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/manas/adversarial_proj/install/adversarial_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/adversarial_pkg build --build-base /home/manas/adversarial_proj/build/adversarial_pkg/build install --record /home/manas/adversarial_proj/build/adversarial_pkg/install.log --single-version-externally-managed install_data --force

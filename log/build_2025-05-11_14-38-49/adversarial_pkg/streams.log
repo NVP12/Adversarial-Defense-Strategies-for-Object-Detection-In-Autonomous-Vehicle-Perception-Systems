@@ -1,0 +1,17 @@
+[0.444s] Invoking command in '/home/manas/adversarial_proj/build/adversarial_pkg': PYTHONPATH=/home/manas/adversarial_proj/build/adversarial_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/manas/adversarial_proj/install/adversarial_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/manas/adversarial_proj/build/adversarial_pkg/build --no-deps symlink_data
+[0.608s] running develop
+[0.696s] running egg_info
+[0.697s] writing adversarial_pkg.egg-info/PKG-INFO
+[0.697s] writing dependency_links to adversarial_pkg.egg-info/dependency_links.txt
+[0.697s] writing entry points to adversarial_pkg.egg-info/entry_points.txt
+[0.697s] writing requirements to adversarial_pkg.egg-info/requires.txt
+[0.697s] writing top-level names to adversarial_pkg.egg-info/top_level.txt
+[0.698s] reading manifest file 'adversarial_pkg.egg-info/SOURCES.txt'
+[0.698s] writing manifest file 'adversarial_pkg.egg-info/SOURCES.txt'
+[0.699s] running build_ext
+[0.699s] Creating /home/manas/adversarial_proj/install/adversarial_pkg/lib/python3.10/site-packages/adversarial-pkg.egg-link (link to .)
+[0.699s] Installing classifier script to /home/manas/adversarial_proj/install/adversarial_pkg/lib/adversarial_pkg
+[0.699s] 
+[0.700s] Installed /home/manas/adversarial_proj/build/adversarial_pkg
+[0.700s] running symlink_data
+[0.714s] Invoked command in '/home/manas/adversarial_proj/build/adversarial_pkg' returned '0': PYTHONPATH=/home/manas/adversarial_proj/build/adversarial_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/manas/adversarial_proj/install/adversarial_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/manas/adversarial_proj/build/adversarial_pkg/build --no-deps symlink_data

@@ -1,0 +1,62 @@
+running develop
+Removing /home/manas/adversarial_proj/install/adversarial_pkg/lib/python3.10/site-packages/adversarial-pkg.egg-link (link to .)
+running egg_info
+writing ../../build/adversarial_pkg/adversarial_pkg.egg-info/PKG-INFO
+writing dependency_links to ../../build/adversarial_pkg/adversarial_pkg.egg-info/dependency_links.txt
+writing entry points to ../../build/adversarial_pkg/adversarial_pkg.egg-info/entry_points.txt
+writing requirements to ../../build/adversarial_pkg/adversarial_pkg.egg-info/requires.txt
+writing top-level names to ../../build/adversarial_pkg/adversarial_pkg.egg-info/top_level.txt
+reading manifest file '../../build/adversarial_pkg/adversarial_pkg.egg-info/SOURCES.txt'
+writing manifest file '../../build/adversarial_pkg/adversarial_pkg.egg-info/SOURCES.txt'
+running build
+running build_py
+copying adversarial_pkg/get_map.py -> /home/manas/adversarial_proj/build/adversarial_pkg/build/lib/adversarial_pkg
+copying adversarial_pkg/yolo.py -> /home/manas/adversarial_proj/build/adversarial_pkg/build/lib/adversarial_pkg
+copying adversarial_pkg/classifier.py -> /home/manas/adversarial_proj/build/adversarial_pkg/build/lib/adversarial_pkg
+copying adversarial_pkg/map_calc_node.py -> /home/manas/adversarial_proj/build/adversarial_pkg/build/lib/adversarial_pkg
+creating /home/manas/adversarial_proj/build/adversarial_pkg/build/lib/adversarial_pkg/utils
+copying adversarial_pkg/utils/dataloader.py -> /home/manas/adversarial_proj/build/adversarial_pkg/build/lib/adversarial_pkg/utils
+copying adversarial_pkg/utils/__init__.py -> /home/manas/adversarial_proj/build/adversarial_pkg/build/lib/adversarial_pkg/utils
+copying adversarial_pkg/utils/utils_fit.py -> /home/manas/adversarial_proj/build/adversarial_pkg/build/lib/adversarial_pkg/utils
+copying adversarial_pkg/utils/utils_map.py -> /home/manas/adversarial_proj/build/adversarial_pkg/build/lib/adversarial_pkg/utils
+copying adversarial_pkg/utils/utils_bbox.py -> /home/manas/adversarial_proj/build/adversarial_pkg/build/lib/adversarial_pkg/utils
+copying adversarial_pkg/utils/callbacks.py -> /home/manas/adversarial_proj/build/adversarial_pkg/build/lib/adversarial_pkg/utils
+copying adversarial_pkg/utils/utils.py -> /home/manas/adversarial_proj/build/adversarial_pkg/build/lib/adversarial_pkg/utils
+running install
+running install_lib
+creating /home/manas/adversarial_proj/install/adversarial_pkg/lib/python3.10/site-packages/adversarial_pkg
+copying /home/manas/adversarial_proj/build/adversarial_pkg/build/lib/adversarial_pkg/get_map.py -> /home/manas/adversarial_proj/install/adversarial_pkg/lib/python3.10/site-packages/adversarial_pkg
+copying /home/manas/adversarial_proj/build/adversarial_pkg/build/lib/adversarial_pkg/yolo.py -> /home/manas/adversarial_proj/install/adversarial_pkg/lib/python3.10/site-packages/adversarial_pkg
+copying /home/manas/adversarial_proj/build/adversarial_pkg/build/lib/adversarial_pkg/magnet_inference.py -> /home/manas/adversarial_proj/install/adversarial_pkg/lib/python3.10/site-packages/adversarial_pkg
+copying /home/manas/adversarial_proj/build/adversarial_pkg/build/lib/adversarial_pkg/__init__.py -> /home/manas/adversarial_proj/install/adversarial_pkg/lib/python3.10/site-packages/adversarial_pkg
+copying /home/manas/adversarial_proj/build/adversarial_pkg/build/lib/adversarial_pkg/classifier.py -> /home/manas/adversarial_proj/install/adversarial_pkg/lib/python3.10/site-packages/adversarial_pkg
+creating /home/manas/adversarial_proj/install/adversarial_pkg/lib/python3.10/site-packages/adversarial_pkg/utils
+copying /home/manas/adversarial_proj/build/adversarial_pkg/build/lib/adversarial_pkg/utils/dataloader.py -> /home/manas/adversarial_proj/install/adversarial_pkg/lib/python3.10/site-packages/adversarial_pkg/utils
+copying /home/manas/adversarial_proj/build/adversarial_pkg/build/lib/adversarial_pkg/utils/__init__.py -> /home/manas/adversarial_proj/install/adversarial_pkg/lib/python3.10/site-packages/adversarial_pkg/utils
+copying /home/manas/adversarial_proj/build/adversarial_pkg/build/lib/adversarial_pkg/utils/utils_fit.py -> /home/manas/adversarial_proj/install/adversarial_pkg/lib/python3.10/site-packages/adversarial_pkg/utils
+copying /home/manas/adversarial_proj/build/adversarial_pkg/build/lib/adversarial_pkg/utils/utils_map.py -> /home/manas/adversarial_proj/install/adversarial_pkg/lib/python3.10/site-packages/adversarial_pkg/utils
+copying /home/manas/adversarial_proj/build/adversarial_pkg/build/lib/adversarial_pkg/utils/utils_bbox.py -> /home/manas/adversarial_proj/install/adversarial_pkg/lib/python3.10/site-packages/adversarial_pkg/utils
+copying /home/manas/adversarial_proj/build/adversarial_pkg/build/lib/adversarial_pkg/utils/callbacks.py -> /home/manas/adversarial_proj/install/adversarial_pkg/lib/python3.10/site-packages/adversarial_pkg/utils
+copying /home/manas/adversarial_proj/build/adversarial_pkg/build/lib/adversarial_pkg/utils/utils.py -> /home/manas/adversarial_proj/install/adversarial_pkg/lib/python3.10/site-packages/adversarial_pkg/utils
+copying /home/manas/adversarial_proj/build/adversarial_pkg/build/lib/adversarial_pkg/map_calc_node.py -> /home/manas/adversarial_proj/install/adversarial_pkg/lib/python3.10/site-packages/adversarial_pkg
+byte-compiling /home/manas/adversarial_proj/install/adversarial_pkg/lib/python3.10/site-packages/adversarial_pkg/get_map.py to get_map.cpython-310.pyc
+byte-compiling /home/manas/adversarial_proj/install/adversarial_pkg/lib/python3.10/site-packages/adversarial_pkg/yolo.py to yolo.cpython-310.pyc
+byte-compiling /home/manas/adversarial_proj/install/adversarial_pkg/lib/python3.10/site-packages/adversarial_pkg/magnet_inference.py to magnet_inference.cpython-310.pyc
+byte-compiling /home/manas/adversarial_proj/install/adversarial_pkg/lib/python3.10/site-packages/adversarial_pkg/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/manas/adversarial_proj/install/adversarial_pkg/lib/python3.10/site-packages/adversarial_pkg/classifier.py to classifier.cpython-310.pyc
+byte-compiling /home/manas/adversarial_proj/install/adversarial_pkg/lib/python3.10/site-packages/adversarial_pkg/utils/dataloader.py to dataloader.cpython-310.pyc
+byte-compiling /home/manas/adversarial_proj/install/adversarial_pkg/lib/python3.10/site-packages/adversarial_pkg/utils/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/manas/adversarial_proj/install/adversarial_pkg/lib/python3.10/site-packages/adversarial_pkg/utils/utils_fit.py to utils_fit.cpython-310.pyc
+byte-compiling /home/manas/adversarial_proj/install/adversarial_pkg/lib/python3.10/site-packages/adversarial_pkg/utils/utils_map.py to utils_map.cpython-310.pyc
+byte-compiling /home/manas/adversarial_proj/install/adversarial_pkg/lib/python3.10/site-packages/adversarial_pkg/utils/utils_bbox.py to utils_bbox.cpython-310.pyc
+byte-compiling /home/manas/adversarial_proj/install/adversarial_pkg/lib/python3.10/site-packages/adversarial_pkg/utils/callbacks.py to callbacks.cpython-310.pyc
+byte-compiling /home/manas/adversarial_proj/install/adversarial_pkg/lib/python3.10/site-packages/adversarial_pkg/utils/utils.py to utils.cpython-310.pyc
+byte-compiling /home/manas/adversarial_proj/install/adversarial_pkg/lib/python3.10/site-packages/adversarial_pkg/map_calc_node.py to map_calc_node.cpython-310.pyc
+running install_data
+copying resource/adversarial_pkg -> /home/manas/adversarial_proj/install/adversarial_pkg/share/ament_index/resource_index/packages
+copying package.xml -> /home/manas/adversarial_proj/install/adversarial_pkg/share/adversarial_pkg
+running install_egg_info
+Copying ../../build/adversarial_pkg/adversarial_pkg.egg-info to /home/manas/adversarial_proj/install/adversarial_pkg/lib/python3.10/site-packages/adversarial_pkg-0.0.0-py3.10.egg-info
+running install_scripts
+Installing classifier = adversarial_pkg.classifier:mainmap_evaluator script to /home/manas/adversarial_proj/install/adversarial_pkg/lib/adversarial_pkg
+writing list of installed files to '/home/manas/adversarial_proj/build/adversarial_pkg/install.log'

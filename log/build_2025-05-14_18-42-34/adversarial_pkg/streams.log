@@ -1,0 +1,20 @@
+[0.683s] Invoking command in '/home/manas/adversarial_proj/build/adversarial_pkg': PYTHONPATH=/home/manas/adversarial_proj/build/adversarial_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/manas/adversarial_proj/install/adversarial_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/manas/adversarial_proj/build/adversarial_pkg/build --no-deps symlink_data
+[0.968s] running develop
+[1.137s] running egg_info
+[1.137s] writing adversarial_pkg.egg-info/PKG-INFO
+[1.137s] writing dependency_links to adversarial_pkg.egg-info/dependency_links.txt
+[1.138s] writing entry points to adversarial_pkg.egg-info/entry_points.txt
+[1.138s] writing requirements to adversarial_pkg.egg-info/requires.txt
+[1.138s] writing top-level names to adversarial_pkg.egg-info/top_level.txt
+[1.140s] reading manifest file 'adversarial_pkg.egg-info/SOURCES.txt'
+[1.142s] writing manifest file 'adversarial_pkg.egg-info/SOURCES.txt'
+[1.143s] running build_ext
+[1.143s] Creating /home/manas/adversarial_proj/install/adversarial_pkg/lib/python3.10/site-packages/adversarial-pkg.egg-link (link to .)
+[1.144s] Installing classifier script to /home/manas/adversarial_proj/install/adversarial_pkg/lib/adversarial_pkg
+[1.145s] Installing map_calc_node script to /home/manas/adversarial_proj/install/adversarial_pkg/lib/adversarial_pkg
+[1.145s] Installing teacher_node script to /home/manas/adversarial_proj/install/adversarial_pkg/lib/adversarial_pkg
+[1.145s] Installing training_node script to /home/manas/adversarial_proj/install/adversarial_pkg/lib/adversarial_pkg
+[1.145s] 
+[1.145s] Installed /home/manas/adversarial_proj/build/adversarial_pkg
+[1.145s] running symlink_data
+[1.172s] Invoked command in '/home/manas/adversarial_proj/build/adversarial_pkg' returned '0': PYTHONPATH=/home/manas/adversarial_proj/build/adversarial_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/manas/adversarial_proj/install/adversarial_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/manas/adversarial_proj/build/adversarial_pkg/build --no-deps symlink_data
