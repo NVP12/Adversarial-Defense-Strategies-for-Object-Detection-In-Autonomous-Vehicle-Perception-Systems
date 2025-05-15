@@ -9,6 +9,10 @@ Robustifying YOLO v8 for Autonomous‑Vehicle Perception
 
 ---
 
+📁 For downloading the workspace see [Project Workspace](./ProjectWorkspace.md).
+
+---
+
 ## ✨ Project Highlights
 | ✔ | Description |
 |---|-------------|
