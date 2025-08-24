@@ -1,6 +1,6 @@
 # Adversarial Defense Strategies for Object Detection in Autonomous Vehicle Perception Systems
 
-![Project Overview](assets/intro.png)  
+![Project Overview](assets/intro.webp)  
 *Image source: [Unite.AI](https://www.unite.ai/optical-adversarial-attack-can-change-the-meaning-of-road-signs/)*
 
 ## Overview
