@@ -4,10 +4,10 @@
 *Image source: [Unite.AI](https://www.unite.ai/optical-adversarial-attack-can-change-the-meaning-of-road-signs/)*
 
 ## Overview
-Adversarial attacks are small, carefully crafted changes to input images that are almost invisible to humans but can completely fool machine learning models. For example, a slightly altered stop sign might still look like a stop sign to us, but an object detector could misclassify it as a speed-limit sign — a dangerous outcome for an autonomous vehicle. Defense against adversarial attacks means building systems that can detect, resist, or adapt to these hidden perturbations, ensuring that AI models remain reliable even when under attack.
+Adversarial attacks are small, carefully crafted changes to input images that are almost invisible to humans but can completely fool machine learning models. For example, a slightly altered stop sign might still look like a stop sign to us, but an object detector could misclassify it as a speed-limit sign — a dangerous outcome for an autonomous vehicle. Defense against adversarial attacks means building systems that can **detect, resist, or adapt** to these hidden perturbations, ensuring that AI models remain reliable even when under attack.  
 
-This project explores robustness of CNN-based object detection models (with YOLOv4 as baseline) against adversarial attacks in the context of autonomous vehicle perception.
-We propose a self-supervised continual learning pipeline that enables the detector to adapt during deployment by leveraging adversarial inputs in real time. The pipeline incorporates an adversarial detector (MagNet), a teacher-student framework (YOLOv8 → YOLOv4), and ROS2-based integration for automated training and inference.
+This project explores **robustness of CNN-based object detection models** (with YOLOv4 as baseline) against adversarial attacks in the context of **autonomous vehicle perception**.  
+We propose a **self-supervised continual learning pipeline** that enables the detector to adapt during deployment by leveraging adversarial inputs in real time. The pipeline incorporates an **adversarial detector (MagNet)**, a **teacher-student framework (YOLOv8 → YOLOv4)**, and **ROS2-based integration** for automated training and inference.
 
 ---
 
